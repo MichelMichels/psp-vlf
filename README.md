@@ -1,10 +1,10 @@
 # VLF library
 
-Development library to create XMB-like PSP applications.
+Rehosting of the development library to create XMB-like PSP applications originally developed by Dark_AleX.
 
-## Original developer comments
+## Developer comments
 
-from Dark_AleX:
+From Dark_AleX:
 
 > Well, the first official version of the library is incompatible with the beta version, the "Add" now returns types opaque instead of integers. There are two versions of the library, one with and one without support PNG occupies less. 
 > 
@@ -14,3 +14,7 @@ from Dark_AleX:
 >   * Add a few features missing
 >   * Add style to another central menu.2.0: correct position
 >   * Add sound and implement MessageDialog natively
+
+## Acknowledgments
+
+All work done by Dark_Alex.
